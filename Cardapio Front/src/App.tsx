@@ -1,9 +1,9 @@
 // import { useState } from 'react';
 import { useState } from 'react';
 import './App.css'
-import { Card } from './src/components/card/card';
-import { useFoodData } from './src/rooks/useFoodData';
-import { CreateModal } from './src/components/card/create-modal/create-modal';
+import { Card } from './components/card/card';
+import { useFoodData } from './rooks/useFoodData';
+import { CreateModal } from './components/card/create-modal/create-modal';
 
 
 function App() {
